@@ -1,0 +1,109 @@
+id: a9b05f0b4f53462b88db9535143dcd7e
+annotation_type: Segment
+revision: '00001'
+annotations:
+  e7f6bbbf1d4d41a48ff083434d85f04c:
+    span:
+      start: 0
+      end: 9
+    metadata: {}
+  a0c0d4927990440f98c95e7f4fd24d59:
+    span:
+      start: 12
+      end: 21
+    metadata: {}
+  dbb7c8d8573c4fbfa18487c0a04488e4:
+    span:
+      start: 24
+      end: 33
+    metadata: {}
+  109de564874846258393ca003a8cdf58:
+    span:
+      start: 36
+      end: 45
+    metadata: {}
+  75f5a3a205964a3a94fc3b8704e498a2:
+    span:
+      start: 48
+      end: 57
+    metadata: {}
+  f9a6553267de4c66a5f3a0db18fa3a59:
+    span:
+      start: 60
+      end: 69
+    metadata: {}
+  cb6c3516f1c9471d9550894e29e66859:
+    span:
+      start: 72
+      end: 81
+    metadata: {}
+  3e9cd05a78334d2996c9e916685cb7da:
+    span:
+      start: 84
+      end: 93
+    metadata: {}
+  6e5b37f3b6ba4e08ac3438f76f5509b0:
+    span:
+      start: 96
+      end: 105
+    metadata: {}
+  1e17723db57a4aaaa5799c90eb101029:
+    span:
+      start: 108
+      end: 117
+    metadata: {}
+  0e6149d52d6c4a9486456c1bc821476e:
+    span:
+      start: 120
+      end: 129
+    metadata: {}
+  d643e2ce077147bb915150f27d1ec631:
+    span:
+      start: 132
+      end: 141
+    metadata: {}
+  9c378ade2c07458f817057e984f2dcd5:
+    span:
+      start: 144
+      end: 153
+    metadata: {}
+  6ca62d8077594d18bb54fc18371dbe23:
+    span:
+      start: 156
+      end: 165
+    metadata: {}
+  bb73072f18994309b75e9e5915ddc275:
+    span:
+      start: 168
+      end: 177
+    metadata: {}
+  1a3ab7c1bb2e4a62bf866d9a64d3f873:
+    span:
+      start: 180
+      end: 189
+    metadata: {}
+  c5d7c176aa3f49e48f87e9d9d82c8c7b:
+    span:
+      start: 192
+      end: 201
+    metadata: {}
+  18b8613d9f90406ca0a74677f7187ca2:
+    span:
+      start: 204
+      end: 213
+    metadata: {}
+  4c996d3e9bdf482a8ada85c36e26502f:
+    span:
+      start: 216
+      end: 225
+    metadata: {}
+  56993d7feddf4fffb73c71560c8d3d53:
+    span:
+      start: 228
+      end: 237
+    metadata: {}
+  87a9aab6ed8341e0a81bec3a465b933b:
+    span:
+      start: 240
+      end: 249
+    metadata: {}
